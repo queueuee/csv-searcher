@@ -1,0 +1,7 @@
+﻿  CSVSearcher.cpp
+C:\Users\he_4e\OneDrive\Рабочий стол\search_csv\search_csv\CSVSearcher.cpp(84,40): warning C4101: e: неиспользованная локальная переменная
+C:\Users\he_4e\OneDrive\Рабочий стол\search_csv\search_csv\CSVSearcher.cpp(89,36): warning C4101: e: неиспользованная локальная переменная
+C:\Users\he_4e\OneDrive\Рабочий стол\search_csv\search_csv\CSVSearcher.cpp(108,40): warning C4101: e: неиспользованная локальная переменная
+C:\Users\he_4e\OneDrive\Рабочий стол\search_csv\search_csv\CSVSearcher.cpp(113,36): warning C4101: e: неиспользованная локальная переменная
+C:\Users\he_4e\OneDrive\Рабочий стол\search_csv\search_csv\CSVSearcher.cpp(50): warning C4715: CSVSearcher::IsInputDataCorrect: значение возвращается не при всех путях выполнения
+  search_csv.vcxproj -> C:\Users\he_4e\OneDrive\Рабочий стол\search_csv\x64\Debug\search_csv.exe
